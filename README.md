@@ -9,17 +9,17 @@ Esse repositório é um reflexo da minha jornada no curso de JavaScript do Bootc
 
 _Primeiros passos com Javascript_
 
+_Conhecendo Funções_
+
+_Criando Objetos e Classes em Javascript_
+
 | Aula | Assunto aprendido | Desafio |
 ---|---|---|
 | 1 | Variáveis e Operadores | ✅ |
 | 2 | Estruturas Condicionais | ✅ |
 | 3 | Exercícios | ✅ |
-
-_Conhecendo Funções_
-
-| Aula | Assunto aprendido | Desafio |
----|---|---|
 | 4 | Funções | ✅ |
+| 5 | Classes e objetos | ✅ |
 
 
 
