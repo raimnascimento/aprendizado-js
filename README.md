@@ -13,6 +13,15 @@ _Primeiros passos com Javascript_
 ---|---|---|
 | 1 | Variáveis e Operadores | ✅ |
 | 2 | Estruturas Condicionais | ✅ |
+| 3 | Exercícios | ✅ |
+
+_Conhecendo Funções_
+
+| Aula | Assunto aprendido | Desafio |
+---|---|---|
+| 4 | Funções | ✅ |
+
+
 
 
 
