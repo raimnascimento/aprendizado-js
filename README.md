@@ -20,6 +20,8 @@ _Criando Objetos e Classes em Javascript_
 | 3 | Exercícios | ✅ |
 | 4 | Funções | ✅ |
 | 5 | Classes e objetos | ✅ |
+| 6 | Listas (Arrays) | ✅ |
+
 
 
 
